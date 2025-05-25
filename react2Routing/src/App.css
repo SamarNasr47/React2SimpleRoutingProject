@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer components {
+.page{
+        @apply  w-2xl h-fit py-40 my-20 bg-blue-950 rounded;
+    }
+    .txt{
+        @apply text-white text-8xl text-center;
+    }
+    .item{
+        @apply py-2 hover:text-blue-300;
+    }
+}

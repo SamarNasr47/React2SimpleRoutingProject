@@ -1,0 +1,15 @@
+.d {
+    color: rgb(12, 82, 47);
+    padding-left: 25vw;
+}
+.con{
+    border: 2px solid rgb(12, 82, 47);
+}
+a{
+    color: rgb(14, 97, 56);
+}
+a:hover{
+    color: rgb(23, 163, 93);
+    transition: 1.5s;
+    scale: 1.5;
+}
